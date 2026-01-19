@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-netflix-dbt-masterclass-project
+<<<<<<< netflix-dbt-masterclass-project >>>>>>>
 
 Welcome to your new dbt project!
 
@@ -19,4 +18,4 @@ Try running the following commands:
 =======
 # netflix-dbt-masterclass-project
 This is Snowflake-DBT end to end project
->>>>>>> 9efceed26830eda6dad68c3b3020dd7e137e7fa3
+
