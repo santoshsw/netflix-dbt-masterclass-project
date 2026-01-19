@@ -1,0 +1,13 @@
+netflix_dbt_project:
+  outputs:
+    dev:
+      account: **********
+      database: netflix
+      password: **********
+      role: TRANSFORM
+      schema: landing
+      threads: 1
+      type: snowflake
+      user: dbt_user
+      warehouse: COMPUTE_WH
+  target: dev
