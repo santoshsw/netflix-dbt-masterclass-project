@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 netflix-dbt-masterclass-project
 
 Welcome to your new dbt project!
@@ -15,3 +16,7 @@ Try running the following commands:
 - Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
 - Find [dbt events](https://events.getdbt.com) near you
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+=======
+# netflix-dbt-masterclass-project
+This is Snowflake-DBT end to end project
+>>>>>>> 9efceed26830eda6dad68c3b3020dd7e137e7fa3
